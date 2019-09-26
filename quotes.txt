@@ -1,0 +1,34 @@
+{
+	"data": [
+			[
+				 "1",
+				 "Locked",
+				 "CPQ-403",
+				 "CPG-403",
+				 "1",
+				 "Pinnacle Technologies",
+				 "Content project",
+				 "Created",
+				 "$14,254.79",
+				 "Lisa Jones",
+				 "09/09/2019",
+				 "09/21/2019 15:51",
+				 "0.00"
+			],
+			[
+				 "1",
+				 "",
+				 "CPQ-741",
+				 "CPG-741",
+				 "1",
+				 "ACME Manufacturing",
+				 "Basement upgrade",
+				 "Quoted",
+				 "$21,199.12",
+				 "Lisa Jones",
+				 "08/30/2019",
+				 "09/07/2019 12:49",
+				 "0.00"
+			]
+		]
+}

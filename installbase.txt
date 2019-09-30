@@ -1,43 +1,23 @@
 {
 	"data": [
 	[
-		"106R04346",
-		"Xerox B205/B210/B215 Toner Cartridge",
-		"2",
-		"$49.99",
-		"03/03/2019",
-		"",
-		"",
+		"B215/DNI",
+		"Xerox® B215 Multifunction Printer",
+		"02/02/2017",
+		"07/01/2019",
+		"2971 pages",
+		"up to 3000",
+		"Online",
 		""
 	],
 	[
-		"C405-config-ehc",
-		"VersaLink C405 Extra High Capacity Toner Cartridge",
-		"5",
-		"$194.99",
-		"01/22/2019",
-		"",
-		"",
-		""
-	],	
-	[
-		"106R04347",
-		"Xerox B205/B210/B215 Toner Bundle",
-		"1",
-		"$141/09",
-		"12/03/2018",
-		"",
-		"",
-		""
-	],
-	[
-		"497K18120",
-		"VersaLink Internal Card Reader / RFID Kit",
-		"1",
-		"$240.00",
-		"04/12/2019",
-		"",
-		"",
+		"C405/DN",
+		"VersaLink® C405",
+		"05/12/2018",
+		"12/21/2018",
+		"83313 pages",
+		"up to 85000",
+		"Online",
 		""
 	]
 	]

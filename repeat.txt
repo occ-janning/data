@@ -11,7 +11,7 @@
 		""
 	],
 	[
-		"C405-config-ehc",
+		"106R03524",
 		"VersaLink C405 Extra High Capacity Toner Cartridge",
 		"5",
 		"$194.99",

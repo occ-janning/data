@@ -12,7 +12,7 @@
 			]
 	},
 	{
-		"label": "B215 MULTIFUNCTION"
+		"label": "B215 MULTIFUNCTION",
 		"values":
 			[
 				{ "x":"April", "y":2900},

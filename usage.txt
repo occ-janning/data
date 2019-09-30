@@ -1,0 +1,26 @@
+[
+        {
+		"label": "VERSALINK C405 DN",
+		"values":
+			[
+				{ "x":"April", "y": 8400},
+				{ "x":"May", "y":8103},
+				{ "x":"June", "y":7511},
+				{ "x":"July", "y":8291},
+				{ "x":"August", "y":7844},
+        { "x":"September", "y":8099}
+			]
+	},
+	{
+		"label": "B215 MULTIFUNCTION"
+		"values":
+			[
+				{ "x":"April", "y":2900},
+				{ "x":"May", "y":3001},
+				{ "x":"June", "y":3151},
+				{ "x":"July", "y":2877},
+				{ "x":"August", "y":2799},
+        { "x":"September", "y":3099}
+			]
+	}
+]

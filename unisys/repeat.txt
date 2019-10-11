@@ -1,8 +1,8 @@
 {
 	"data": [
 	[
-		"106R04346",
-		"Xerox B205/B210/B215 Toner Cartridge",
+		"UnisysSKUID1",
+		"Friggidy Beef",
 		"2",
 		"$49.99",
 		"03/03/2019",

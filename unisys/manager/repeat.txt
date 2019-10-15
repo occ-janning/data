@@ -1,43 +1,19 @@
 {
 	"data": [
 	[
-		"UnisysSKUID1",
-		"Friggidy Beef",
-		"2",
-		"$49.99",
-		"03/03/2019",
-		"",
-		"",
-		""
-	],
-	[
-		"106R03524",
-		"VersaLink C405 Extra High",
+		"Computer Service and Rentals",
+		"Evelyn Duncan",
+		"555-555-5678",
+		"10/15/2019",
 		"5",
-		"$194.99",
-		"01/22/2019",
-		"",
-		"",
-		""
-	],	
-	[
-		"106R04347",
-		"Xerox B205/B210/B215 Toner Bundle",
-		"1",
-		"$141/09",
-		"12/03/2018",
-		"",
-		"",
-		""
+		"AS8800"
 	],
 	[
-		"497K18120",
-		"VersaLink Internal Card Reader / RFID Kit",
-		"1",
-		"$240.00",
-		"04/12/2019",
-		"",
-		"",
+		"Crest Unlimited",
+		"Mark Lawrence",
+		"413-297-8765",
+		"6/12/2018",
+		"3",
 		""
 	]
 	]

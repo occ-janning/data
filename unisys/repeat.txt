@@ -1,9 +1,9 @@
 {
 	"data": [
 		[
-			"UnisysSKUID1",
-			"Friggidy Beef",
-			"03/03/2019",
+			"CF1101",
+			"CloudForte",
+			"11/03/2019",
 			"Current",
 			"High",
 			"7.3.0",
@@ -11,12 +11,22 @@
 			"8.0.1"
 		],
 		[
-			"UnisysSKUID1",
-			"Friggidy Beef",
-			"03/03/2019",
+			"CPFW8580",
+			"ClearPath Forward Libra 8580",
+			"12/15/2020",
 			"Current",
 			"High",
-			"7.3.0",
+			"2.3.1",
+			"No",
+			""
+		],
+		[
+			"EP1102",
+			"Endpoint Management",
+			"6/15/2029",
+			"Expired",
+			"Medium",
+			"5.2.7",
 			"No",
 			""
 		]

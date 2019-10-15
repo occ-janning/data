@@ -1,25 +1,16 @@
 {
 "data": [
 [
-		"EC405MA",
-		"VersaLink C405 Service Agreement",
-		"$179.99",
-		"12/27/2019",
-		"Active"
+		"IS1",
+		"Inteliserve",
+		"$1,999.99 / yr",
+		"The InteliServe platform provides an integrated suite of best-in-class technologies that provide omnichannel support, advanced analytics, automation, artificial intelligence (AI), machine learning and identity authentication."
 	],
 	[
-		"EB2X5QA",
-		"Xerox B205/B215 Service Agreement",
-		"$69.00",
-		"10/21/2019",
-		"Ends Soon"
-	],
-	[
-		"E3210",
-		"WorkCentre 3210 Service Agreement",
-		"$149.99",
-		"11/25/2017",
-		"Suspended"
+		"EP2202",
+		"Enterprise Payments",
+		"$3,999.99 / yr",
+		"Unisys payment solutions offer a robust yet flexible application for processing retail bills paid by check."
 	]
 	]
 }

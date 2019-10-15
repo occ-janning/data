@@ -1,5 +1,5 @@
 [
   {"label": "Current", "color":"rgb(144,103,167)", "value": 5},
-	{"label": "Near Expiration Date", "color":"rgb(132,186,91)", "value": 2},
+	{"label": "Almost Expired", "color":"rgb(132,186,91)", "value": 2},
 	{"label": "Expired", "color":"rgb(211,94,96)", "value": 1}
 ]

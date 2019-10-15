@@ -12,7 +12,7 @@
 	],
 	[
 		"106R03524",
-		"VersaLink C405 Extra High Capacity Toner Cartridge",
+		"VersaLink C405 Extra High",
 		"5",
 		"$194.99",
 		"01/22/2019",

@@ -23,7 +23,7 @@
 		[
 			"EP1102",
 			"Endpoint Management",
-			"6/15/2029",
+			"6/15/2019",
 			"Expired",
 			"Medium",
 			"5.2.7",

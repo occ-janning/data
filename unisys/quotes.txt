@@ -1,0 +1,12 @@
+{
+	"data": [
+			[
+				 "AS88000",
+				 "Power Server 100",
+				 "10/1/2017",
+				 "12/1/2019",
+				 "Service Needed",
+				 "Current"
+			]
+		]
+}

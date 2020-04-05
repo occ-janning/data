@@ -1,0 +1,16 @@
+{
+"data": [
+[
+		"IS1",
+		"Inteliserve",
+		"$1,999.99 / yr",
+		"The InteliServe platform provides an integrated suite of best-in-class technologies that provide omnichannel support, advanced analytics, automation, artificial intelligence (AI), machine learning and identity authentication."
+	],
+	[
+		"EP2202",
+		"Enterprise Payments",
+		"$3,999.99 / yr",
+		"Unisys payment solutions offer a robust yet flexible application for processing retail bills paid by check."
+	]
+	]
+}
